@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\bin\Debug\net6.0\Week6Strings.exe
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\bin\Debug\net6.0\Week6Strings.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\bin\Debug\net6.0\Week6Strings.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\bin\Debug\net6.0\Week6Strings.dll
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\bin\Debug\net6.0\Week6Strings.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.dll
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\refint\Week6Strings.dll
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\Week6Strings.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week6Strings\Week6Strings\obj\Debug\net6.0\ref\Week6Strings.dll
